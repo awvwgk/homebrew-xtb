@@ -1,0 +1,7 @@
+= Homebrew Tap for Semiempirical Quantum Mechanics
+
+[source]
+----
+brew tap awvwgk/xtb
+brew install xtb
+----
